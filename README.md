@@ -13,3 +13,5 @@ Known bugs and limitations:
 
 1. CX series switches have multiple CPU cores, the CPU utilization gathers CPU 0 only
 2. Firmware release is the currently running firmware, which may not be the firmware saved in the primary or secondary flash.
+
+Tested/developed only on 6100. 

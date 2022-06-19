@@ -15,3 +15,8 @@ Known bugs and limitations:
 2. Firmware release is the currently running firmware, which may not be the firmware saved in the primary or secondary flash.
 
 Tested/developed only on 6100. 
+
+How to use:
+1. Within zabbix, go to Configuration -> templates
+2. Import template
+3. Apply template to switches like any other

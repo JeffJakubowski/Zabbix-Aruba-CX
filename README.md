@@ -1,6 +1,8 @@
 # Zabbix-Aruba-CX
 Aruba CX series monitoring template for Zabbix
 
+Refer to Zabbix forum for discussion and other updates: https://www.zabbix.com/forum/zabbix-cookbook/446449-aruba-cx-template
+
 Modification of Zabbix 6.0.4 built-in template HP Enterprise Switch SNMP.
 
 Includes the following changes:

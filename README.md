@@ -22,3 +22,7 @@ How to use:
 1. Within zabbix, go to Configuration -> templates
 2. Import template
 3. Apply template to switches like any other
+
+Revision 2 from Michael Webber includes better fan/power discovery and developed under 6.2
+see https://www.zabbix.com/forum/zabbix-cookbook/446449-aruba-cx-template?p=449659#post449659
+Jeff hacked a bit to support uploading to a 6.0 version system
